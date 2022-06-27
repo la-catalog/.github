@@ -4,7 +4,7 @@
 </picture>  
 
 <div align="center">
-  la-catalog is an experience! <br/>
+  <i>la catalog</i> is an experience! <br/>
   And I'm trying to make sure it's a good experience. Now, <br/>
   GO-HAVE-FUN!
 </div>
