@@ -5,6 +5,6 @@
   </picture>
   <p>
   <i>la-catalog</i> is an experience! <br/>
-  And I'm trying to make sure it's a good experience. Now, <br/>
-  <a href="https://www.youtube.com/watch?v=1CxOLPqdaeg">GO-HAVE-FUN!</a>
+  And I'm trying to make sure it's a good experience. Now... <br/>
+  <a href="https://www.youtube.com/watch?v=1CxOLPqdaeg">GO! HAVE! FUN!</a>
 </div>
